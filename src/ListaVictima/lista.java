@@ -9,5 +9,9 @@ package ListaVictima;
  * @author eleaz
  */
 public interface lista {
-    
+   public  void agregar(String nombre);
+   public void eliminar(String nombre);
+   public int buscar(String nombre);
 }
+
+
