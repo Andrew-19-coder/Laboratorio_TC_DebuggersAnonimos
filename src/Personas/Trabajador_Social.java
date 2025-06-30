@@ -36,6 +36,10 @@ public class Trabajador_Social {
     public String getCanton() {
         return Canton;
     }
+
+    public void setCanton(String Canton) {
+        this.Canton = Canton;
+    }
     
     
     
